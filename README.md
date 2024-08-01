@@ -22,20 +22,20 @@
   
 ![Category](https://github.com/user-attachments/assets/4fcca2c9-a8e7-4d01-8f02-a88e58466c64)
 
--Sum Price
+- Sum Price
 
 ![Sum price](https://github.com/user-attachments/assets/912df626-d7dd-4cf4-9761-d1744c5f8317)
 
--No of Units
+- No of Units
 
 ![No of Units](https://github.com/user-attachments/assets/1295a194-49dd-47e6-a479-a94a88053c3f)
 
--Top Two Products
+- Top Two Products
 
 ![Top Two Products](https://github.com/user-attachments/assets/88771438-190e-4161-a5f6-1b29bfdc3460)
 
 
--Pivot Table 
+- Pivot Table 
 
 ![Pivot Table](https://github.com/user-attachments/assets/8adf95ee-0d36-4ec3-ba99-39da2f4564ac)
 
