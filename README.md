@@ -16,12 +16,34 @@
 
 - Product Sell
 
-- https://github.com/sumitnawadkar/Excel/blob/a51c614b535b826ba107d0679e556dcd43dda03c/Category.JPG
+![Product Sell](https://github.com/user-attachments/assets/9b25da08-08cc-4c22-81ed-f8c06d976006)
 
-https://github.com/sumitnawadkar/Excel/blob/72dd3a6c8cbc3ab2893992ff8c455601cd0730dd/No%20of%20Units.JPG
+- Category
+  
+![Category](https://github.com/user-attachments/assets/4fcca2c9-a8e7-4d01-8f02-a88e58466c64)
 
-https://github.com/sumitnawadkar/Excel/blob/2d42986c357dc4e75279762a52b9a4ed04e24783/Pivot%20Table.JPG
+-Sum Price
 
-https://github.com/sumitnawadkar/Excel/blob/cf1abdfd57491625dbf9611733ef34f85a85ba25/Product%20Sell.JPG
+![Sum price](https://github.com/user-attachments/assets/912df626-d7dd-4cf4-9761-d1744c5f8317)
 
-https://github.com/sumitnawadkar/Excel/blob/38b2b35aac211dddf36aa038c381ef9350879b59/Sum%20price.JPG
+-No of Units
+
+![No of Units](https://github.com/user-attachments/assets/1295a194-49dd-47e6-a479-a94a88053c3f)
+
+-Top Two Products
+
+![Top Two Products](https://github.com/user-attachments/assets/88771438-190e-4161-a5f6-1b29bfdc3460)
+
+
+-Pivot Table 
+
+![Pivot Table](https://github.com/user-attachments/assets/8adf95ee-0d36-4ec3-ba99-39da2f4564ac)
+
+
+
+
+
+
+
+
+
