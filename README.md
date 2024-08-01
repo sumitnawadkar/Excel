@@ -1,6 +1,6 @@
 # Excel
 
-# Data Analysis using Excel: Electronics Sales Dataset
+## Data Analysis using Excel: Electronics Sales Dataset
 
 - Project Overview: Analyzed sales data from an Excel file containing information on electronics product sales.
 
@@ -11,3 +11,9 @@
 - Data Summarization: Used pivot tables to summarize and categorize data, providing insights into key metrics such as total sales, average order value, and sales by region.
  
 - Outcome: Delivered comprehensive visual and analytical reports that helped identify sales patterns and informed strategic business decisions.
+
+## Charts and Graphs
+
+- Product Sell
+
+
