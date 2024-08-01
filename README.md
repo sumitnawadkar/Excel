@@ -19,3 +19,5 @@
 - https://github.com/sumitnawadkar/Excel/blob/a51c614b535b826ba107d0679e556dcd43dda03c/Category.JPG
 
 https://github.com/sumitnawadkar/Excel/blob/72dd3a6c8cbc3ab2893992ff8c455601cd0730dd/No%20of%20Units.JPG
+
+https://github.com/sumitnawadkar/Excel/blob/2d42986c357dc4e75279762a52b9a4ed04e24783/Pivot%20Table.JPG
